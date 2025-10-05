@@ -1,0 +1,7 @@
+../Core/Src/sd_spi.c:7:6:SD_Select	8	static
+../Core/Src/sd_spi.c:11:6:SD_Deselect	8	static
+../Core/Src/sd_spi.c:15:9:SD_Receive	16	static
+../Core/Src/sd_spi.c:19:9:SD_Send	16	static
+../Core/Src/sd_spi.c:23:9:SD_ReadBlock	16	static
+../Core/Src/sd_spi.c:32:9:SD_WriteBlock	16	static
+../Core/Src/sd_spi.c:40:9:SD_InitCard	8	static

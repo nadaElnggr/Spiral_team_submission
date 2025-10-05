@@ -1,0 +1,7 @@
+../Core/Src/sd_spi.c:7:6:SD_Select	1
+../Core/Src/sd_spi.c:11:6:SD_Deselect	1
+../Core/Src/sd_spi.c:15:9:SD_Receive	1
+../Core/Src/sd_spi.c:19:9:SD_Send	1
+../Core/Src/sd_spi.c:23:9:SD_ReadBlock	1
+../Core/Src/sd_spi.c:32:9:SD_WriteBlock	1
+../Core/Src/sd_spi.c:40:9:SD_InitCard	1

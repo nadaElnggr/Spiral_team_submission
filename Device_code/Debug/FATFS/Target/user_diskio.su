@@ -1,0 +1,5 @@
+../FATFS/Target/user_diskio.c:93:9:USER_initialize	40	static
+../FATFS/Target/user_diskio.c:136:9:USER_status	16	static
+../FATFS/Target/user_diskio.c:146:9:USER_read	32	static
+../FATFS/Target/user_diskio.c:163:9:USER_write	32	static
+../FATFS/Target/user_diskio.c:185:9:USER_ioctl	16	static
